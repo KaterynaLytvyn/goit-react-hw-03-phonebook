@@ -1,0 +1,15 @@
+/* CSS */
+
+.list {
+    width:50%;
+}
+
+.item {
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    background-color: #DAEAF1;
+    margin-bottom: 8px;
+    border-radius: 10px;
+    padding: 5px;
+}
